@@ -3,7 +3,7 @@ from PIL import Image
 from telebot import types
 
 # Initialize the Telegram bot
-bot = telebot.TeleBot('6549115461:AAENYc283HA75j6pVixMQ3uJEEH959l4RaE', parse_mode='HTML')
+bot = telebot.TeleBot('your_telegram_bot_here', parse_mode='HTML')
 print("connected to the bot")
 
 # Setup logging
