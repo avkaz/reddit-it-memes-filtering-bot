@@ -20,7 +20,7 @@ firebase_admin.initialize_app(cred, {'storageBucket': 'codereview-22c86.appspot.
 bucket = storage.bucket()
 
 
-bot = telebot.TeleBot('6549115461:AAENYc283HA75j6pVixMQ3uJEEH959l4RaE', parse_mode='HTML')
+bot = telebot.TeleBot('your_telegram_bot_token_here', parse_mode='HTML')
 
 
 # Get the current working directory
