@@ -53,4 +53,4 @@ This bot is part of a larger project, the main repository for which can be found
 
 ## Main Repository
 
-*   Main Project Repository: <https://github.com/avkaz/code_review/tree/mainl>
+*   Main Project Repository: <https://github.com/avkaz/code_review/tree/main>
